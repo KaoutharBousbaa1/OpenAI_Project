@@ -26,7 +26,10 @@ To install the openai-agents package, run:
     pip install openai-agents
 
 4- **Generate the financial report:**
-Use the following command:
+Set your OpenAI key first:
+   
+      export OPENAI_API_KEY="your_api_key_here"
+Then use the following command:
 
     python -m examples.financial_research_agent.main
 
