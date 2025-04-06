@@ -8,7 +8,7 @@ Ensure you have Python 3.7+ installed. It is recommended to create and activate 
 
 Then unsure to set up you python environement:
 
-   `python -m venv .venv`
+   `python -m venv .venv`<br>
    `source .venv/bin/activate`
 
 ## Installation
