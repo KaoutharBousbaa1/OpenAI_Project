@@ -6,6 +6,11 @@ This project allows you to generate financial reports and interact with them thr
 
 Ensure you have Python 3.7+ installed. It is recommended to create and activate a virtual environment before proceeding.
 
+Then unsure to set up you python environement:
+
+   `python -m venv .venv`
+   `source .venv/bin/activate`
+
 ## Installation
 
 1. **Install requirements:**
